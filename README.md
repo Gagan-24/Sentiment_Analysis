@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Emotion Detection Project 🎭
 
@@ -70,6 +71,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Contact 📧
 
-For any questions or suggestions, feel free to reach out to [prateekmalagund@gmail.com](mailto:prateekmalagund@gmail.com).
+For any questions or suggestions, feel free to reach out to [rgagan700@gmail.com](mailto:rgagan700@gmail.com).
 
 Feel free to further customize the README.md as needed! 🌟
+=======
